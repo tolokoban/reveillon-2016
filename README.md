@@ -2,9 +2,22 @@
 
 Je jette ici en vrac toutes les idées qui me viennent pour le réveillon 2016 que Ludo organise.
 
-Il y a surtout un liste des jeux possibles pour des équipes de 6 personnes. On essaie de rester dans le thème du 6.
+Il y a surtout un liste des jeux possibles pour des équipes de 6 personnes. 
+
+# Idées pour la Murder party
+
+On essaie de rester dans le thème du 6.
 Les prénoms des personnages pourraient, par exemple, toujours comporter 6 lettres. Cela permettra, par exemple, d'utiliser le _calendrier magique_.
 
+Il est souvent difficile de faire vivre une murder party avec des joueurs débutants.
+On pourrait alors peut-être les guider au maximum en supposant que le maître de maison a été assassiné, mais que son fantôme rôde et essaie d'aider les invités à démasquer l'assassin. Pour communiquer, il va le faire sous forme d'énigmes indirectes.
+
+Chaque joueur a, dans sa fiche de personnage, des indications différentes mais complémentaires qui permettent d'avancer dans l'enquête.
+
+* Le _calendrier magique_, par exemple peut donner un nom à partir d'une date.
+* Certains joueurs peuvent être possédés par le fantôme a un moment précis et dire une phrase que le maître de maison voudrait dire.
+
+# Idées de jeux 
 ## Maris jaloux
 ### Principe
 
