@@ -81,4 +81,8 @@ Le mécanisme a des tiges de fer qui doivent entrer dans des trous des cubes. En
 
 ### Mise en scène
 
+## Plus de place pour la dernière pièce
+### Le principe
+Une table carrée. Chacun son tour, on place une pièce (ou un bouchon de bouteille, j'en ai plein au boulot) sur la table sans en toucher aucune autre. Celui qui n'a plus de place perd la partie.
 
+Celui qui commence peut gagner en plaçant sa première pièce au centre. Puis, quand son adversaire joue, il répond en plaçant sa pièce en symétrie centrale de cette dernière.
