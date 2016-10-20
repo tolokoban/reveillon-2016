@@ -17,7 +17,14 @@ Chaque joueur a, dans sa fiche de personnage, des indications différentes mais 
 * Le _calendrier magique_, par exemple peut donner un nom à partir d'une date.
 * Certains joueurs peuvent être possédés par le fantôme a un moment précis et dire une phrase que le maître de maison voudrait dire.
 
-# Idées de jeux 
+# Idées de jeux
+## Les jumelles témoins
+### Principe
+Deux jumelles femmes de chambre ont été témoin d'un fait important pour l'enquête.
+Le problème est que l'une des deux ment toujours tandis que l'autre dit toujours la vérité, mais personne ne sait qui est qui.
+
+On peut leur poser une seule question dont la réponse peut être OUI ou NON.
+
 ## Maris jaloux
 ### Principe
 
