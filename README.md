@@ -106,6 +106,13 @@ Les murs servent à ralentir l'adversaire, mais il est interdit de le bloquer co
 Le jeu peut se faire à 4 en grandeur nature avec des planches représentant les murs. Mais il en faut 40 ! On peut aussi prendre des bâtons ou autre.
 Le top, serait de créer un quadrillage en cordres avec des planches à chaque frontière entre deux cases. U côté de la planche serait noire et l'autre blanche. La face blanche représente un mur. On peut utiliser des tasseaux on guide de planche. Il en faudra alors 180 !
 
+## Interrupteurs va-et-vient
+### Le principe
+Le château possède un système unique (pour l'époque) de va-et-vient avec 3 interrupteurs.
+Mais les fils ont été débranchés et il ne fonctionne plus.
+
+[Pour essayer en ligne](http://tolokoban.org/Articles/VaEtVient/index.2.html)
+
 ## Jeu des chapeaux
 ### Le principe
 Les 6 joueurs ferment les yeux et on place sur chacun d'eux un chapeau avec une plume dont la couleur est choisie au hasard parmi 6 possibles : blanche, noire, bleu, rouge, jaune, verte.
