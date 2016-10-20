@@ -84,7 +84,9 @@ Il existe une astuce pour se libérer sans dénouer les noeuds ni briser les cor
 
 Il y a 15 cubes disposés dans un carré de 4x4. Cela laisse un trou qui permet de faire glisser les cubes dans l'espace vide et ainsi de les mélanger. Il y a une phrase de 15 lettres à reconstituer de cette façon. Et le mécanisme ne s'ouvre que lorsqu'on a la bonne phrase.
 
-Le mécanisme a des tiges de fer qui doivent entrer dans des trous des cubes. En fonction de la position des cubes, les tiges ne sont pas en face des trous correspondants.
+Deux possibilités :
+* Le mécanisme a des tiges de fer qui doivent entrer dans des trous des cubes. En fonction de la position des cubes, les tiges ne sont pas en face des trous correspondants.
+* Un circuit électrique allume une lampe s'il est fermé. Chaque cube agit comme un interrupteur sur ce circuit grace à de l'aluminium placé sous les cubes.
 
 ### Mise en scène
 
