@@ -88,7 +88,7 @@ Une table carrée. Chacun son tour, on place une pièce (ou un bouchon de boutei
 Celui qui commence peut gagner en plaçant sa première pièce au centre. Puis, quand son adversaire joue, il répond en plaçant sa pièce en symétrie centrale de cette dernière.
 
 ## Jeu des murailles
-### Le Principe
+### Le principe
 
 Jeu à deux (ou 4) sur un plateau de 9x9 cases séparées par des sillons. Chacun possède un pion et 10 murs. Le pion commence sur la ligne la plus proche d'un joueur et le but et de l'amener sur la ligne opposée. A chaque tour, on a deux choix : soit on déplace le pion d'une case horizontalement ou verticalement, soit on place un mur (qui fait 2 cses de long) pour géner l'adversaire.
 Les murs servent à ralentir l'adversaire, mais il est interdit de le bloquer complètement. L'adversaire doit toujours pouvoir atteindre la ligne opposée, même si c'est très long.
@@ -96,3 +96,14 @@ Les murs servent à ralentir l'adversaire, mais il est interdit de le bloquer co
 ### Mise en scène
 Le jeu peut se faire à 4 en grandeur nature avec des planches représentant les murs. Mais il en faut 40 ! On peut aussi prendre des bâtons ou autre.
 Le top, serait de créer un quadrillage en cordres avec des planches à chaque frontière entre deux cases. U côté de la planche serait noire et l'autre blanche. La face blanche représente un mur. On peut utiliser des tasseaux on guide de planche. Il en faudra alors 180 !
+
+## Jeu des chapeaux
+### Le principe
+Les 6 joueurs ferment les yeux et on place sur chacun d'eux un chapeau avec une plume dont la couleur est choisie au hasard parmi 6 possibles : blanche, noire, bleu, rouge, jaune, verte.
+Les joueurs n'ont pas le droit de communiquer, ni de regarder la plume de leur chapeau, mais ils vopient très bien les plumes des autres joueurs.
+On leur demande à tour de rôle de deviner la couleur est la plume de leur chapeau. L'équipe gagne s'il y a __UNE ET UNE SEULE__ réponse juste. Il faut donc qu'une seule personne devine sa couleur et que toutes les autres se trompent.
+
+### Mise en scène
+Cette énigme est assez pointue, alors on peut commencer par deux joueurs avec des plumes de deux couleurs.
+Il faut aussi repousser la résolution de l'énigme au plus tard dans la soirée, mais avertir les joueurs dès le début pour qu'ils aient le temps d'y réfléchir entre eux pendant l'apéro.
+
