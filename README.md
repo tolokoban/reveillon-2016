@@ -1,5 +1,134 @@
 # reveillon-2016
 
+Demander aux gens d’être plutôt à l’heure 19:00 (message ampoulé de la part du comte)
+Note : l’idée est de finir le jeu complet (5 jeux, murder et chasse au trésor) à 23:00 max.
+L’idée est aussi de danser avant 23:00.
+Note : Inclure une danse de menuet pendant le jeu.
+
+## Action
+Accueil à la torche dehors par les valets.
+Table à l’entrée pour donner les fiches de perso et les noms (qu’on a inventé) (et les actions pour certains indiquées dessus). Fiche simples. Avec noms des clans (pour arbre généalogique).
+Annonce des noms à voix haute, 3 coups ou cloche.
+Ils découvrent la déco et la musique baroque d’ambiance et se rassemblent dans le hall.
+
+## Apéro et entrées
+
+Quand tout le monde est dispo (on fait une photo de groupe), 
+
+__20:30__ :
+Le jeu commence.
+Un valet annonce que monsieur le comte les a réuni pour leur remettre un héritage.
+Mais il faut le mériter. Par équipes, voir l’arbre généalogique (grand parchemin Jean-Chris).
+Monsieur le comte viendra à l’issu des épreuves depuis Paris pour remettre son héritage à l’équipe gagnante.
+
+Explications et dispatch par pièces par un orga. 
+
+__20:45__
+5 Jeux (les équipes tournent): 
+(10 min par épreuve)
+Une dans chaque pièce (pour que les équipes ne se copient pas dessus).
+On tourne au son d’un carillon (vrai ou sur sono).
+Fouille (coffre à déguisement, truc derrière les rideaux, sous tapis)
+Brouette mari jaloux (dehors ?)
+Corde à deux
+Casse-tetes
+Corde à nœuds
+
+Note : 5 orga. Un orga par jeu.
+
+__21:45__ fin des jeux.
+Recup de 25 trucs, parmi eux :
+x pieces en bois
+1 mouchoir brodé avec initiales ou armoiries
+Un message : « l’un d’entre nous est un imposteur »
+Une clé
+Note : attention, si jeu pas réussi, certaines pièces serviront à rien.
+
+
+Quand ils les ont obtenu, Ils les déposent dans un endroit.
+Les orgas recupèrent les pièces (panieres ?)
+
+## Coup de théatre !
+
+Un messager arrive de Paris (bruit de cavalcade et chevaux – baffle dehors). Un joueur ou un valet arrive en disant que le comte est mort (retrouvé dans son hotel particulier à paris, mort depuis trois jours).
+
+Annonce d’un valet :
+« on continue quand meme la soirée, allez manger »
+
+
+Buffet de plats chauds
+Fromages compris
+
+## Quand le repas s’étire en longueur, et juste avant le dessert
+Les lampes s’éteignent d’un coup ( ?), coup de tonnerre (SONO) et un cri (dans la fiche de perso d’un personnage, suite à l’injonction d’un valet (orga) tu dois aller dans telle piece et tu cries quand les lumieres s’eteignent).
+On retrouve un cadavre encore chaud d’une femme de chambre (lieu : là ou il n’y a personne. Dehors ?).
+Couteau ensanglanté en plastique et faux sang de ketchup retrouvé à coté d’elle.
+Sur la femme de chambre, on retrouve une lettre cachetée à la cire. Une lettre écrite à une de ses amies (dans sa chaussure ou un truc qui dépasse) disant qu’elle a dérobé une moitié de la carte d’un invité du château qu’elle ne peut pas nommer... Et que depuis elle se sent en danger. Je ne peux pas t’écrire son nom, mais j’ai aussi dérobé un de ses mouchoirs. Je l’ai malheureusement perdu entre temps.
+
+* Note : une demi- carte = demi patron qui permet de reconstituer la carte à partir des pièces en bois.
+* Note : Mouchoirs avec armoiries ou (initiales). Qu’on retrouvera sur le costume du notaire plus tard. 
+
+
+## Le mode COLLABORATIF commence. 
+* Note : il doit être rapide.
+
+Cad les équipes jouent tous ensemble (si pas naturel, on les incite)
+
+Nouvel objectif : Trouver le meurtrier (cad le notaire). Grace aux armoiries du mouchoir obtenu lors des épreuves.
+Note : Le notaire à la deuxième partie de la carte sur lui. (= deuxieme partie du patron)
+
+Idée marrante : Le notaire est ensuite menotté est emmené par la police (vrai costume anachronique). Olivier ? (girophare bleu)
+
+
+## Etape 6 :
+Les gens placent les pièces en bois sur la carte ‘en forme de plan de Gemens ?). Et ça indique un endroit ou trouver le coffre.
+
+Clé obtenue lors des épreuves.
+
+## FIN :
+Dans le coffre, une montagne de ferrero rocher et de bonbons pour les enfants !
+ On peut déterrer le coffre enterré au fond du champ
+ 
+Pour finir, si on a le temps
+Debrief par un orga a la fin du jeu :
+Le notaire a en fait tué le comte à Paris il y a trois jours en espérant dérober le trésor directement. Il a déjà rassemblé et/ou résolu certaines énigmes (mais pas toutes !). D’où l’obligation pour lui de maintenir l’évènement et de venir au château. Il arrive sur place avec d’autres invités à l’avance. Il se fait dérober un morceau de la carte par une servante.
+
+* Note : Intérêt de la murder est finalement simplement de trouver la carte au trésor ou le patron sur lequel poser les bouts de bois (le 6eme jeu en somme). Et c’est marrant de résoudre une énigme de meurtre. Découverte d’une murder pour les gens.
+
+## PERSO :
+Perso qui ressortent : 
+la personne qui crie et trouve le cadre de la servante (voir sa fiche),
+Le notaire  (Fabien ?).  PNJ*
+Le notaire est venu incognito.
+La servante (Marielle). PNJ. Elle a deux costumes. Un de servante depuis le début, puis un vraie robe pour la suite.
+Avant de mourir elle distille le fait qu’elle est menacée et qu’elle a peur… (Ou pas…)
+
+(*) PNJ : personnage non-joueur, fait partie de l’orga (mais les joueurs ne le savent pas ils pensent que c’est un joueur parmi d’autres )
+
+Fouille à détailler.
+Utilise t’on le skelette ?
+
+Pour la fouille dans la pièce il faut que ce soit rapide à ranger pour l’équipe suivante
+
+
+## IMPORTANT
+Bien anticiper les 12 coups de MINUIT sur SONO (dong, dong, dong,…)
+
+## A Faire :
+* Trouver des noms aux invités => 
+* Ecrire les cartes de personnage avec les consignes =>
+* Inventer l’arbre généalogique et l’imprimer =>
+* Playlistes musiques ambiance musique baroque, etc… =>
+* Préparer les 5 jeux (matériel, etc) =>
+* Préparer le coffre au trésor fermant à clé et les pierres décorées =>
+* Préparer les pièces du puzzle, la carte, le message « l’un d’entre nous est un importeur », le mouchoir =>
+* Broderie du notaire X2 =>
+* Panière pour les pièces du puzzle =>
+
+
+
+----
+
 Je jette ici en vrac toutes les idées qui me viennent pour le réveillon 2016 que Ludo organise.
 
 Il y a surtout un liste des jeux possibles pour des équipes de 6 personnes. 
