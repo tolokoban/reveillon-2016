@@ -1,5 +1,7 @@
 # reveillon-2016
 
+Pour construire une  [roue de déchiffrage](https://tolokoban.github.io/reveillon-2016/).
+
 Demander aux gens d’être plutôt à l’heure 19:00 (message ampoulé de la part du comte)
 Note : l’idée est de finir le jeu complet (5 jeux, murder et chasse au trésor) à 23:00 max.
 L’idée est aussi de danser avant 23:00.
