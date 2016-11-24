@@ -18,6 +18,12 @@ FontLoader("mystery-quest").then(function () {
 
 exports.onDraw = function() {
     W('modal-disk').visible = true;
+    draw();
+    window.setTimeout( draw, 1500 );
+    window.setTimeout( draw, 3000 );
+};
+
+function draw() {
     var i;
     var code = W('code').value.toUpperCase();
     var canvas = newCanvas( 'canvas-disk' );
