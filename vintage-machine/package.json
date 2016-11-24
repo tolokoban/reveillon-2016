@@ -6,12 +6,13 @@
         "type": "git",
         "url": "https://github.com/tolokoban/vintage-machine.git"
     },
-    "homepage": "https://tolokoban.github.io/vintage-machine",
+    "homepage": "https://github.com/tolokoban/vintage-machine",
     "license": "GPL-3.0",
     "scripts": {
         "test": "node node_modules/karma/bin/karma start karma.conf.js",
         "test:dbg": "node --debug-brk node_modules/karma/bin/karma start karma.conf.js",
-        "debug": "node node_modules/toloframework/bin/tfw.js build debug test php watch",
+        "watch": "node node_modules/toloframework/bin/tfw.js build debug test php watch",
+        "debug": "node node_modules/toloframework/bin/tfw.js build debug test php clean",
         "clean": "node node_modules/toloframework/bin/tfw.js clean",
         "release": "node node_modules/toloframework/bin/tfw.js build version php clean"
     },
@@ -23,18 +24,21 @@
         "modules": [],
         "compile": {
             "type": "firefoxos",
-            "files": [ "\\.html$" ]
+            "files": [
+                "\\.html$"
+            ]
         },
         "output": "www"
     },
-    "version": "0.0.1",
+    "version": "0.0.5",
     "reservedModules": [],
     "dependencies": {
-        "jasmine-core": "^2.4",
+        "jasmine": "^2.5",
+        "jasmine-core": "^2.5.2",
         "karma": "^0.13",
         "karma-chrome-launcher": "^0.2",
         "karma-firefox-launcher": "^0.1",
         "karma-jasmine": "^0.3.6",
-        "toloframework": "^0.38"
+        "toloframework": "^0.39"
     }
 }

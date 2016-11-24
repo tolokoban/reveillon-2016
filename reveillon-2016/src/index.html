@@ -1,0 +1,53 @@
+<x-html title="Réveillon 2016" app="main">
+    <wdg:modal id="modal" $visible="false" $padding="true">
+        <content>
+            <center style="max-width: 640px">
+                <wdg:text id="code"
+                          $label="Clef (2 à 6 lettres)"
+                          $value="MARIUS"
+                          slot:value="onEncode"
+                          $validator="[a-zA-Z]{2-6}"/>
+                <wdg:button id="draw"
+                            $text="Dessiner la roue de décryptage"
+                            bind:enabled="code:valid"
+                            slot:action="onDraw"/>
+                <hr/>
+                <p>Texte à coder :</p>
+                <textarea id="input"
+                          cols="40" rows="5"
+                          class="theme-elevation-12">quarante-trois vingt sept</textarea><br/>
+                <textarea id="output" class="theme-elevation-12"></textarea>
+                <hr/>
+                <p>La roue de décryptage est composée de plusieurs disques reliés par leur centre grâce à une attache parisienne. Pour déchiffrer un texte il faut connaître la clef (un mot de 2 à 6 lettres) et aligner les disques de sorte à former cette clef verticalement.</p>
+                <p>La clef la plus simple possède deux lettres. Dans ce cas, on repère sur le disque externe la lettre du texte chiffré et on lit sur le disque interne la lettre déchiffrée.</p>
+                <p>Quand la clef a plus de 2 lettres, le disque externe joue toujours le même rôle, celui de repère pour la lettre chiffrée. Mais pour lire la correspondance déchiffrée, il faut alterner entre les disques restants du plus externe au plus interne. Ainsi, avec 4 disques, on a 3 disques internes. Si le texte chiffré comporte 5 lettres, on utilisera les disques dans cet ordre 1, 2, 3, 1, 2.</p>
+            </center>
+        </content>
+    </wdg:modal>
+    <wdg:modal id="modal-disk" $visible="false" $padding="true">
+        <content>
+            <center>
+                <p>Une fois assemblée, votre roue ressemblera à ceci :</p>
+                <canvas id="canvas-disk"></canvas><br/>
+                <x-loop $i="1;2;3;4;5;6">
+                    <tag:x-widget>
+                        <att:id>D<$i/></att:id>
+                        <att:name>wdg.icon</att:name>
+                        <att:$content>export</att:$content>
+                        <att:$button>true</att:$button>
+                        <att:$visible>false</att:$visible>
+                        <att:$value><$i/></att:$value>
+                        <att:slot:action>onDiskSave</att:slot:action>
+                    </tag:x-widget>
+                </x-loop>
+                <br/>
+                <p>Cliquez sur les boutons ci-dessus pour télécharger les images correspondant à chaque disque de la roue.</p>
+                <hr/>
+                <wdg:button id="modal-disk-close"
+                            $text="Fermer"
+                            $type="simple"
+                            slot:action="onCloseModalDisk"/>
+            </center>
+        </content>
+    </wdg:modal>
+</x-html>

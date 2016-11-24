@@ -1,0 +1,23 @@
+canvas {
+    width: 512px;
+    height: 512px;
+    margin: 1rem;
+    background: #fff;
+}
+
+#output, textarea {
+    display: block;
+    width: 95%;
+    margin: .5rem;
+    padding: 1rem;
+}
+
+#output {
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 150%;
+}
+
+textarea {
+    font-variant: all-small-caps;
+}
