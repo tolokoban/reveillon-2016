@@ -1,4 +1,4 @@
-exports.config={"name":"\"reveillon-2016\"","description":"\"R�veillon 2016\"","author":"\"Tolokoban\"","version":"\"1.0.1\"","major":"1","minor":"0","revision":"1","date":"2016-11-24T15:23:26.000Z","consts":{}};
+exports.config={"name":"\"reveillon-2016\"","description":"\"R�veillon 2016\"","author":"\"Tolokoban\"","version":"\"1.0.4\"","major":"1","minor":"0","revision":"4","date":"2016-11-24T20:36:31.000Z","consts":{}};
 var currentLang = null;
 exports.lang = function(lang) {
     if (lang === undefined) {

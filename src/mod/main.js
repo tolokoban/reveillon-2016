@@ -44,7 +44,7 @@ exports.onDiskSave = function( index ) {
     var ctx = canvas.$ctx;
     Disk( ctx, Math.pow(.86, index), code.charCodeAt( index ), code.charAt( index ) );
     canvas.toBlob(function (blob) {
-        FileAPI.saveAs( blob, "Disk-" + (1 + index) );
+        FileAPI.saveAs( blob, "Disk-" + (1 + index) + ".png" );
     }, "image/png", 100);
 };
 

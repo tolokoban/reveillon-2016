@@ -1,34 +1,34 @@
 {
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tolokoban/reveillon-2016.git"
-  },
-  "homepage": "https://github.com/tolokoban/reveillon-2016",
-  "bugs": {
-    "url": "https://github.com/tolokoban/reveillon-2016/issues"
-  },
-  "scripts": {
-    "clean": "node node_modules/toloframework/bin/tfw.js clean",
-    "debug": "node node_modules/toloframework/bin/tfw.js build debug test",
-    "watch": "node node_modules/toloframework/bin/tfw.js build debug test watch",
-    "release": "node node_modules/toloframework/bin/tfw.js build test version clean",
-    "test": "jasmine",
-    "test:dbg": "node --debug-brk node_modules/jasmine/bin/jasmine.js"
-  },
-  "name": "reveillon-2016",
-  "version": "1.0.1",
-  "author": "Tolokoban",
-  "description": "R�veillon 2016",
-  "license": "GPL",
-  "tfw": {
-    "modules": [],
-    "compile": {
-      "type": "firefoxos",
-      "files": "\\.html$"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tolokoban/reveillon-2016.git"
+    },
+    "homepage": "https://github.com/tolokoban/reveillon-2016",
+    "bugs": {
+        "url": "https://github.com/tolokoban/reveillon-2016/issues"
+    },
+    "scripts": {
+        "clean": "node node_modules/toloframework/bin/tfw.js clean",
+        "debug": "node node_modules/toloframework/bin/tfw.js build debug test",
+        "watch": "node node_modules/toloframework/bin/tfw.js build debug test watch",
+        "release": "node node_modules/toloframework/bin/tfw.js build test version clean",
+        "test": "jasmine",
+        "test:dbg": "node --debug-brk node_modules/jasmine/bin/jasmine.js"
+    },
+    "name": "reveillon-2016",
+    "version": "1.0.4",
+    "author": "Tolokoban",
+    "description": "R�veillon 2016",
+    "license": "GPL",
+    "tfw": {
+        "modules": [],
+        "compile": {
+            "type": "firefoxos",
+            "files": "\\.html$"
+        }
+    },
+    "reservedModules": [],
+    "dependencies": {
+        "toloframework": "^0.39.28"
     }
-  },
-  "reservedModules": [],
-  "dependencies": {
-    "toloframework": "^0.39.28"
-  }
 }
