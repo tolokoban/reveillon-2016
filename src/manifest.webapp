@@ -1,7 +1,7 @@
 {
   "launch_path": "/index.html",
   "developer": {
-    "name": "tolokoban",
+    "name": "Tolokoban",
     "url": "https://github.com/tolokoban/reveillon-2016"
   },
   "icons": {
@@ -9,6 +9,6 @@
     "512": "/icon-512.png"
   },
   "name": "reveillon-2016",
-  "version": "0.0.2",
-  "description": "Réveillon 2016 à Gémens"
+  "version": "1.0.1",
+  "description": "R�veillon 2016"
 }

@@ -1,4 +1,4 @@
-exports.config={"name":"\"reveillon-2016\"","description":"\"Réveillon 2016 à Gémens\"","author":"\"tolokoban\"","version":"\"0.0.2\"","major":"0","minor":"0","revision":"2","date":"2016-11-24T15:04:46.000Z","consts":{}};
+exports.config={"name":"\"reveillon-2016\"","description":"\"R�veillon 2016\"","author":"\"Tolokoban\"","version":"\"1.0.1\"","major":"1","minor":"0","revision":"1","date":"2016-11-24T15:23:26.000Z","consts":{}};
 var currentLang = null;
 exports.lang = function(lang) {
     if (lang === undefined) {
