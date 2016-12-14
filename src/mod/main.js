@@ -18,6 +18,12 @@ FontLoader("mystery-quest").then(function () {
 
 exports.onDraw = function() {
     W('modal-disk').visible = true;
+    draw();
+    window.setTimeout( draw, 1500 );
+    window.setTimeout( draw, 3000 );
+};
+
+function draw() {
     var i;
     var code = W('code').value.toUpperCase();
     var canvas = newCanvas( 'canvas-disk' );
@@ -50,7 +56,7 @@ exports.onDiskSave = function( index ) {
               ctx, Math.pow(.84, index), code.charCodeAt( index ), code.charAt( index ) );
     }
     canvas.toBlob(function (blob) {
-        FileAPI.saveAs( blob, "Disk-" + (1 + index) );
+        FileAPI.saveAs( blob, "Disk-" + (1 + index) + ".png" );
     }, "image/png", 100);
 };
 

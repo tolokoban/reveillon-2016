@@ -16,7 +16,7 @@
         "test:dbg": "node --debug-brk node_modules/jasmine/bin/jasmine.js"
     },
     "name": "reveillon-2016",
-    "version": "1.0.1",
+    "version": "1.0.5",
     "author": "Tolokoban",
     "description": "R�veillon 2016",
     "license": "GPL",
@@ -27,5 +27,8 @@
             "files": "\\.html$"
         }
     },
-    "reservedModules": []
+    "reservedModules": [],
+    "dependencies": {
+        "toloframework": "^0.39.28"
+    }
 }
