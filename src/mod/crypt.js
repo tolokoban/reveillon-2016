@@ -38,10 +38,11 @@ exports.encode = function( code, text ) {
         alphabets.push( exports.shuffle( exports.ALPHABET, code.charCodeAt( i ), code.charAt( i ) ) );
     }
     for( i=0; i<text.length; i++ ) {
+        if( i % (code.length - 1) == 0 ) out += ' ';
         c = charAt( text, i );
         alpha = alphabets[i % alphabets.length];
         p = alpha.indexOf( c );
-        out += base.charAt( p ) + ' ';
+        out += base.charAt( p );
     }
     return out.trim();
 };

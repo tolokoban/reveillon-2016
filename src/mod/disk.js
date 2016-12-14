@@ -8,14 +8,15 @@ var ALPHABET = Crypt.ALPHABET;
  * @export function
  * Dessine un anneau avec l'alphabet mélangé.
  */
-module.exports = function(ctx, scale, code, start, x, y, radius, fontSize, alphabet) {
+module.exports = function(index, codeLength,
+                          ctx, scale, code, start, x, y, radius, fontSize, alphabet) {
     if( typeof scale === 'undefined' ) scale = 1;
     if( typeof code === 'undefined' ) code = 0;
     if( typeof start === 'undefined' ) start = 'A';
     if( typeof x === 'undefined' ) x = ctx.W / 2;
     if( typeof y === 'undefined' ) y = ctx.H / 2;
-    if( typeof radius === 'undefined' ) radius = 930;
-    if( typeof fontSize === 'undefined' ) fontSize = 120;
+    if( typeof radius === 'undefined' ) radius = 450;
+    if( typeof fontSize === 'undefined' ) fontSize = 80;
     if( typeof alphabet === 'undefined' ) alphabet = ALPHABET;
 
     alphabet = Crypt.shuffle( alphabet, code, start );
@@ -27,15 +28,19 @@ module.exports = function(ctx, scale, code, start, x, y, radius, fontSize, alpha
     ctx.fillStyle = "#feb";
     ctx.strokeStyle = "#875";
     ctx.beginPath();
-    ctx.arc(0, 0, scale * (radius + 80), 0, Math.PI * 2, false);
+    ctx.arc(0, 0, scale * (radius + 58), 0, Math.PI * 2, false);
     ctx.fill();
     ctx.stroke();
     ctx.fillStyle = "#875";
     ctx.beginPath();
-    ctx.arc(0, 0, 25, 0, Math.PI * 2, false);
+    ctx.arc(0, 0, 10, 0, Math.PI * 2, false);
     ctx.fill();
     ctx.restore();
-    ctx.fillStyle = "#000";
+    
+    if( index == 1 ) ctx.fillStyle = "#00f";
+    else if( index == codeLength - 1 ) ctx.fillStyle = "#f00";
+    else ctx.fillStyle = "#000";
+    
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     for( i=0; i<alphabet.length; i++ ) {

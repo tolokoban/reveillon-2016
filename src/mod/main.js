@@ -22,14 +22,15 @@ exports.onDraw = function() {
     var code = W('code').value.toUpperCase();
     var canvas = newCanvas( 'canvas-disk' );
     var ctx = canvas.$ctx;
-    Disk( ctx, 1, 0, code.charAt(0) );
+    Disk( 0, 666, ctx, 1, 0, code.charAt(0) );
     W('D1').visible = true;
     W('D1').enabled = true;
     for( i=1; i<6; i++ ) {
         W('D' + (i + 1)).visible = false;
     }
     for( i=1; i<code.length; i++ ) {
-        Disk( ctx, Math.pow(.86, i), code.charCodeAt( i ), code.charAt( i ) );
+        Disk( i, code.length,
+              ctx, Math.pow(.84, i), code.charCodeAt( i ), code.charAt( i ) );
         W('D' + (i + 1)).visible = true;
         W('D' + (i + 1)).enabled = true;
     }
@@ -42,7 +43,12 @@ exports.onDiskSave = function( index ) {
     var code = W('code').value.toUpperCase();
     var canvas = newCanvas();
     var ctx = canvas.$ctx;
-    Disk( ctx, Math.pow(.86, index), code.charCodeAt( index ), code.charAt( index ) );
+    if( index == 0 ) {
+        Disk( 0, 666, ctx, 1, 0, code.charAt(0) );
+    } else {
+        Disk( index, code.length,
+              ctx, Math.pow(.84, index), code.charCodeAt( index ), code.charAt( index ) );
+    }
     canvas.toBlob(function (blob) {
         FileAPI.saveAs( blob, "Disk-" + (1 + index) );
     }, "image/png", 100);
@@ -62,7 +68,7 @@ exports.onEncode = function() {
 };
 
 function newCanvas(id, width, height) {
-    if( typeof width === 'undefined' ) width = 2048;
+    if( typeof width === 'undefined' ) width = 1024;
     if( typeof height === 'undefined' ) height = width;
 
     var canvas = typeof id === 'undefined' ?
